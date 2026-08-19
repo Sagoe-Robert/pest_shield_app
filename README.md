@@ -142,11 +142,16 @@ The app is configured for deployment via Render using `render.yaml`. See [RENDER
 Group 26B - Pest Shield Ghana Project
 
 SAGOE Wiredu Robert
+
 KYEREMEH Kuruwa Henrietta 
+
 AGYEMANG Kelvin  
+
 BILLA John Moses 
+
 ADJEI Tutu Mark
 
 ## License
+Copyright@2026
 
 Private project — do not distribute without permission.
